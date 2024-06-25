@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 10px;
+    color: white;
+
+
+}
+
+.seadnas {
+    background-color: #e28525;
+    width: 200px;
+    height: 400px;
+    padding: 14px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+
+
+
+}
+.suvs {
+    background-color:#016972;
+    width: 200px;
+    height: 400px;
+    padding: 14px;
+
+
+
+
+
+}
+.luxury {
+    background-color:#00403f ;
+    width: 200px;
+    height: 400px;
+    padding: 14px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+
+
+
+}
+
+
+.essay2 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.essay1 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.essay3 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+button{
+    border: none;
+    background-color: white;
+    width: 100px;
+    margin: 40px 0 ;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+
+
+}
+button .sed{
+color:#e28525 ;
+}
+button .suv{
+color:#016972 ;
+}
+button .lux{
+color:#00403f ;
+}
